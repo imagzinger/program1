@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 48c77557f9e46994da74340221971d78
+  - enabled: 1
+    path: Assets/Scenes/CliffTrack.unity
+    guid: b2a17c8d7e8e0844ba2f9c8907dbf067
+  - enabled: 1
+    path: Assets/Scenes/RaceTrack.unity
+    guid: f2ef7d405f03dcf4a950fad2f1a396b7
+  - enabled: 1
+    path: Assets/Scenes/BlueWins.unity
+    guid: c51909d5ecc8d774fbbd324223f54915
+  - enabled: 1
+    path: Assets/Scenes/RedWins.unity
+    guid: 075f8b722d2db264e8b95950a52d9593
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: 09254e6ee82fe144b80838a6fb0f6271
   m_configObjects: {}
